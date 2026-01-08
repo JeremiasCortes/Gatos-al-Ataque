@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="currentColor">
+  <!-- Cara de gato -->
+  <circle cx="32" cy="36" r="22" fill="#FFA500"/>
+  <!-- Orejas -->
+  <path d="M14 20 L10 6 L24 14 Z" fill="#FFA500"/>
+  <path d="M50 20 L54 6 L40 14 Z" fill="#FFA500"/>
+  <!-- Orejas interiores -->
+  <path d="M15 18 L12 8 L22 14 Z" fill="#FFB84D"/>
+  <path d="M49 18 L52 8 L42 14 Z" fill="#FFB84D"/>
+  <!-- Ojos -->
+  <ellipse cx="24" cy="34" rx="5" ry="6" fill="#2D3436"/>
+  <ellipse cx="40" cy="34" rx="5" ry="6" fill="#2D3436"/>
+  <!-- Brillos en los ojos -->
+  <circle cx="22" cy="32" r="2" fill="white"/>
+  <circle cx="38" cy="32" r="2" fill="white"/>
+  <!-- Nariz -->
+  <path d="M30 42 L32 44 L34 42 Z" fill="#FF6B6B"/>
+  <!-- Boca -->
+  <path d="M32 44 Q28 48 26 46" stroke="#2D3436" stroke-width="2" fill="none"/>
+  <path d="M32 44 Q36 48 38 46" stroke="#2D3436" stroke-width="2" fill="none"/>
+  <!-- Bigotes -->
+  <line x1="10" y1="38" x2="20" y2="40" stroke="#2D3436" stroke-width="1.5"/>
+  <line x1="10" y1="42" x2="20" y2="42" stroke="#2D3436" stroke-width="1.5"/>
+  <line x1="10" y1="46" x2="20" y2="44" stroke="#2D3436" stroke-width="1.5"/>
+  <line x1="54" y1="38" x2="44" y2="40" stroke="#2D3436" stroke-width="1.5"/>
+  <line x1="54" y1="42" x2="44" y2="42" stroke="#2D3436" stroke-width="1.5"/>
+  <line x1="54" y1="46" x2="44" y2="44" stroke="#2D3436" stroke-width="1.5"/>
+</svg>
