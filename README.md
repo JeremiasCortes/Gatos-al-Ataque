@@ -407,28 +407,19 @@ Desarrollado por:
 
 ### Jeremías Cortés
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremias-cortes)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/jeremias-cortes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-cortes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/JeremiasCortes)
 
 ### Irene Fontcuberta
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/irene-fontcuberta)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/irene-fontcuberta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irene-fontcuberta/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/irenefont)
 
 ---
 
 ## Demo
 
-[![Watch the demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/watch?v=tu-video-demo)
-
----
-
-## Contacto
-
-Para cualquier consulta o sugerencia, puedes contactarnos a través de:
-
-- Email: contacto@batalladegatos.com
-- Issues del repositorio
+[![Watch the demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube&logoColor=white)](https://youtu.be/f2cuwGGrfqs)
 
 ---
 
